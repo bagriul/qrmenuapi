@@ -1,0 +1,1 @@
+mongo_string = 'mongodb+srv://tsbgalcontract:mymongodb26@cluster0.kppkt.mongodb.net/test'
